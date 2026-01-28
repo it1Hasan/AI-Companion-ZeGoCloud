@@ -9,9 +9,9 @@ A full-stack AI Voice Assistant built using **Kotlin**, **Node.js**, and **ZEGOC
 * **Modern UI**: iOS-style dynamic chat bubbles with auto-scroll functionality.
 
 ## 🛠️ Tech Stack
-* **Android**: Kotlin, ZegoExpressEngine, Retrofit/OkHttp.
+* **Android**: Kotlin, ZegoExpressEngine, OkHttp.
 * **Backend**: Node.js, Express, Crypto.
-* **AI Engine**: ZEGOCLOUD AI Agent (LLM + TTS + STT).
+* **AI Engine**: ZEGOCLOUD AI Agent (LLM + TTS + ASR).
 
 ⚙️ Setup Instructions
 1. Backend Setup (Node.js)
