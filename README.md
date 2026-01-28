@@ -1,4 +1,4 @@
-# Mara: Real-Time AI Companion 🤖🎙️
+# Real-Time AI Companion 🤖🎙️
 
 A full-stack AI Voice Assistant built using **Kotlin**, **Node.js**, and **ZEGOCLOUD's AI Agent SDK**. This project features 100% text-to-voice synchronization and ultra-low latency interaction.
 
